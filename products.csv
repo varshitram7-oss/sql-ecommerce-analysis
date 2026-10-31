@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+1,Mouse,Accessories,1200
+2,Keyboard,Accessories,1800
+3,Monitor,Displays,14500
+4,Laptop,Computers,52000
+5,Headphones,Audio,2500
+6,Webcam,Accessories,3200
+7,Printer,Peripherals,11500
+8,Speaker,Audio,4000
+9,Tablet,Computers,21000
+10,Router,Networking,2800
